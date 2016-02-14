@@ -1,0 +1,9 @@
+windowSize=3x3
+(point1: 142 74
+point2: 120 95
+point3: 130 188
+point4: 199 269
+point5: 222 267
+point6: 127 263
+point7: 136 234
+
